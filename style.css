@@ -1,0 +1,92 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-image: radial-gradient(#e6e6e6 25%, #cccccc 74%);
+  font-family: 'Arial', sans-serif;
+}
+
+.clearfix {
+  clear: both;
+}
+
+.main {
+  height: 1000px;
+  width: 800px;
+  background-color: #f9f9f9;
+  box-shadow: 5px 7px 15px 5px #d9d9d9;
+  margin: 20px auto;
+}
+
+.top-section {
+  background-color: #9b64c8;
+  text-align: center;
+  padding: 20px;
+}
+
+.profile {
+  width: 150px;
+  border-radius: 50%;
+}
+
+.p1 {
+  color: #ffffff;
+  font-size: 30px;
+  font-weight: bold;
+  margin: 0;
+  margin-top: 10px;
+}
+
+.p2 {
+  font-size: 20px;
+  color: #cccccc;
+  margin: 0;
+  margin-top: 10px;
+}
+
+.col-div-4 {
+  width: 35%;
+  float: left;
+}
+
+.col-div-8 {
+  width: 65%;
+  float: right;
+}
+
+.line {
+  border: 1px solid #d9d9d9;
+  background-color: #999999;
+  height: 800px;
+  width: 2px;
+  margin-top: 30px;
+  position: absolute;
+  transform: translateX(250px);
+}
+
+.content-box {
+  padding: 20px;
+}
+
+.head {
+  font-size: 20px;
+  text-transform: uppercase;
+  font-weight: 600;
+}
+
+.p3 {
+  color: #808080;
+  margin-bottom: -5px;
+}
+
+.fa {
+  color: #666666;
+}
+
+.skills {
+  margin-left: -20px;
+  margin-bottom: 0;
+}
+
+.skills li span {
+  color: #808080;
+}
